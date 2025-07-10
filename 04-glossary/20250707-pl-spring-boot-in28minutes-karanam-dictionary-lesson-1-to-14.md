@@ -18,7 +18,7 @@ Plik zawiera uporządkowany słownik pojęć z lekcji 1–14 kursu "Master Sprin
 title: "Słownik pojęć – lekcje 1–14 kursu Spring Framework"
 date: 2025-07-07
 lang: pl
-slug: master-spring-framework
+slug: spring-boot-in28minutes-karanam
 category: dictionary-lesson-1-to-14
 ---
 

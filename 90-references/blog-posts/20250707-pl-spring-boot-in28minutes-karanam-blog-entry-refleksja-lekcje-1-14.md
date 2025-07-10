@@ -2,7 +2,7 @@
 title: "Powrót do Springa – refleksje po przerobieniu pierwszych 14 lekcji kursu Master Spring Boot"
 date: 2025-07-07
 lang: pl
-slug: spring-framework-powrot-lekcje-1-14
+slug: spring-boot-in28minutes-karanam
 category: blog-entry
 ---
 

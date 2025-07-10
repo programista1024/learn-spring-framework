@@ -1,0 +1,29 @@
+{
+   "course": "[NEW] Master Spring Boot 3 & Spring Framework 6 with Java",
+   "author": "in28minutes",
+   "source": "Udemy",
+   "slug": "spring-boot-in28minutes-karanam",
+   "notes": [
+      {
+         "file": "20250702-pl-spring-boot-in28minutes-karanam-general-notes.md",
+         "title": "Notatki ogólne",
+         "lessons": "Wprowadzenie",
+         "lang": "pl",
+         "date": "2025-07-02"
+      },
+      {
+         "file": "20250703-pl-spring-boot-in28minutes-karanam-details-lesson-1-to-10.md",
+         "title": "Szczegółowe notatki – lekcje 1–10",
+         "lessons": "1–10",
+         "lang": "pl",
+         "date": "2025-07-03"
+      },
+      {
+         "file": "20250707-pl-spring-boot-in28minutes-karanam-details-lesson-11-to-14.md",
+         "title": "Szczegółowe notatki – lekcje 11–14",
+         "lessons": "11–14",
+         "lang": "pl",
+         "date": "2025-07-07"
+      }
+   ]
+}

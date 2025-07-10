@@ -2,7 +2,7 @@
 title: "Powrót do kursu Spring Framework – notatki, refleksje, rozszerzenia"
 date: 2025-07-02
 lang: pl
-slug: spring-framework-powrot-do-kursu
+slug: spring-boot-in28minutes-karanam
 category: blog-entry
 ---
 

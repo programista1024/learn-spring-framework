@@ -12,7 +12,7 @@ Zadania przeznaczone są dla osób początkujących, uczących się Spring Frame
 title: "Zadania praktyczne – Spring Framework: lekcje 11–14"
 date: 2025-07-07
 lang: pl
-slug: master-spring-framework
+slug: spring-boot-in28minutes-karanam
 category: exercises-lesson-11-to-14
 ---
 
